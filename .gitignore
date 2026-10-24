@@ -1,0 +1,20 @@
+# Build output
+build/
+*.o
+*.obj
+*.exe
+*.out
+order_os_visualizer
+
+# Debug / sanitizer artifacts
+*.dSYM/
+*.pdb
+core
+*.log
+
+# IDE / editor metadata
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
